@@ -1,0 +1,5 @@
+{
+  "name": "Охотник на проливы + DCA",
+  "description": "Dip Hunter + DCA Strategy. Buys on volatility dips (3.5x red candle), averages down on -8% drop, and targets quick rebounds.",
+  "requestFramePermissions": []
+}
